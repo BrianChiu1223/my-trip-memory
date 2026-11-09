@@ -1,0 +1,11 @@
+{
+  "name": "our-little-atlas-workspace",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "node scripts/run.mjs setup",
+    "dev": "node scripts/run.mjs dev",
+    "check": "node scripts/run.mjs check"
+  }
+}

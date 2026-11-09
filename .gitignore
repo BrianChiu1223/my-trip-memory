@@ -1,0 +1,35 @@
+# Keep project sources visible even when the host has a blanket global ignore.
+!README.md
+!package.json
+!scripts/
+!scripts/**
+!.gitignore
+!docs/
+!docs/**
+!web/
+!web/**
+!.github/
+!.github/**
+
+# Never commit local credentials, caches, uploads or generated artifacts.
+**/node_modules/
+**/dist/
+**/.next/
+**/.vinext/
+**/.wrangler/
+**/.sites-runtime/
+**/.agents/
+**/.codex/
+**/.env*
+!**/.env.example
+**/.dev.vars*
+**/*.pem
+**/*.tsbuildinfo
+**/next-env.d.ts
+**/outputs/
+**/work/
+**/coverage/
+**/.DS_Store
+**/*-debug.log*
+backups/
+uploads/

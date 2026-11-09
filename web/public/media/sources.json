@@ -1,0 +1,62 @@
+{
+  "kyoto": {
+    "source": "https://images.unsplash.com/photo-1744294724376-bd2bc6b43616",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "japan-green": {
+    "source": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "japan-temple": {
+    "source": "https://images.unsplash.com/photo-1528360983277-13d401cdc186",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "paris": {
+    "source": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "paris-river": {
+    "source": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "paris-street": {
+    "source": "https://images.unsplash.com/photo-1775919422028-969118ed687e",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "dali": {
+    "source": "https://images.unsplash.com/photo-1697477357974-9baefd1102c8",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "dali-town": {
+    "source": "https://images.unsplash.com/photo-1694355045197-276c3c72672e",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "hangzhou": {
+    "source": "https://images.unsplash.com/photo-1769628357927-54b9d24e183d",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "rome": {
+    "source": "https://images.unsplash.com/photo-1552832230-c0197dd311b5",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "florence": {
+    "source": "https://images.unsplash.com/photo-1776377231754-d36928e6ee4d",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  },
+  "shanghai": {
+    "source": "https://images.unsplash.com/photo-1780383158164-8c1755ce9d4e",
+    "license": "https://unsplash.com/license",
+    "usage": "演示图片，不代表用户真实旅行"
+  }
+}
